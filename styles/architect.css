@@ -1,0 +1,30 @@
+/* Head Title */
+.Head-Title{
+font-family: 'Work Sans';
+font-weight: 700;
+font-size: 45px;
+color: #131313;
+margin-top: 85px;
+margin-left: 100px;
+} 
+/* Navigation */
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 35px 200px;
+
+   
+
+}
+nav ul{
+    display: flex;
+    align-items: center;
+  
+   
+    
+}
+nav li{
+    list-style: none;
+    margin-top: 50px;
+    margin-left: 30px;
+   }
