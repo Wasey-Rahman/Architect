@@ -85,3 +85,47 @@ nav li{
     width: 1400px;
     height: 800px;
 }
+/* Features */
+
+
+.Feature-title{
+font-family: 'Work Sans';
+font-weight: 500;
+font-size: 45px;
+color: #727272;
+padding:300px 0 0 1085px ;
+
+
+
+}
+.Feature-description{
+   font-family: 'Work Sans';
+   font-weight: 400;
+   font-size: 16px;
+   color: #727272;
+   padding:30px 0 0 1085px ;
+    
+    
+}
+.First-color{
+    color: #131313;
+}
+.second-color{
+    color:#FF900E ;
+}
+
+/* Feature Image */
+.feature-img{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 50px;
+   
+   
+   }
+   .team-tf{
+    margin-right: 760px;
+    margin-bottom: 24px;
+   
+   }
+
+
