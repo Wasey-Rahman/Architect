@@ -113,6 +113,20 @@ padding:300px 0 0 1085px ;
 .second-color{
     color:#FF900E ;
 }
+.btn{
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    border: 0;
+    background: #FF900E;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 18px 35px;
+    height: 64px; 
+    margin-left: 1085px;
+    margin-top: 20px;
+}
 
 /* Feature Image */
 .feature-img{
@@ -128,4 +142,33 @@ padding:300px 0 0 1085px ;
    
    }
 
+   /* Feature Enjoy */
+   .Title{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+   padding-left: 200px;
+   margin-top: 200px;
+   
+   }
 
+.Description{
+    font-family: 'Work Sans';
+   font-weight: 400;
+   font-size: 16px;
+   color: #727272;
+margin-left: 0px;
+ padding: 0 200px 0 0;
+}
+#box{
+   
+        
+        width: 300px;
+        height: 100px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+        border-radius: 8px;
+       margin-left: 200px;
+       margin-bottom: 20px;
+}
