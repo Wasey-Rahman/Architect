@@ -44,7 +44,7 @@ font-size: 18px;
 
 text-align: center;
 
-/* Dark 02 */
+/
 color: #424242;
 
 
@@ -230,7 +230,7 @@ margin-bottom: 30px;
   }
   
   .flex-row {
-    /* display: flex; */
+    
     align-items: center;
     margin-left: 180px;
     box-sizing: border-box;
@@ -351,3 +351,8 @@ background: #FFF4E7;
 border-radius: 8px;
 padding: 40px;
 }
+
+
+
+
+
