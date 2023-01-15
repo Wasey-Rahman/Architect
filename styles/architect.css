@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 /* Head Title */
 .Head-Title{
 font-family: 'Work Sans';
@@ -7,7 +10,13 @@ color: #131313;
 margin-top: 85px;
 margin-left: 100px;
 } 
-/* Navigation */
+/* Navigation and head-title*/
+
+
+.header-title{
+    background-color:rgba(255, 144, 14, 0.1);
+    }
+
 nav{
     display: flex;
     justify-content: space-between;
@@ -28,3 +37,51 @@ nav li{
     margin-top: 50px;
     margin-left: 30px;
    }
+
+   /* Header-banner */
+
+   .brand-new{
+    margin-left: 500px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+    
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #131313;
+    }
+   .Description{
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #727272;
+    margin-left: 520px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+}
+.btn-primary{
+    
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    border: 0;
+    background: #FF900E;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 18px 35px;
+    height: 64px;
+    margin-left: 700px;
+    margin-right: 600px;
+    margin-bottom: 50px;
+    
+}
+
+
+.banner-img{
+    padding: 0 50px 0px 50px;
+    width: 1400px;
+    height: 800px;
+}
